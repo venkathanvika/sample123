@@ -1,0 +1,3 @@
+Welcome to IntelliQ
+
+Where we can get better training on AWS and Devops
