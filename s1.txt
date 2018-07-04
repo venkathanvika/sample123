@@ -1,1 +1,6 @@
 Hi This is basic git file
+
+
+This file contains all stuff related to GIT Repository
+
+
