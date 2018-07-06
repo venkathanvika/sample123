@@ -1,4 +1,5 @@
 Hi This is basic git file
+This is a modified file after moving to Remote repository
 
 
 This file contains all stuff related to GIT Repository
